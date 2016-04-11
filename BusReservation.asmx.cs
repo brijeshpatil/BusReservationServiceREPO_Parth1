@@ -125,7 +125,7 @@ namespace BusReservationService
                 if (ds.Tables.Count > 0)
                 {
 
-                    return "";
+                    return ds.Tables[0].Rows[0]["TID"].ToString();
                 }
                 else
                 {
