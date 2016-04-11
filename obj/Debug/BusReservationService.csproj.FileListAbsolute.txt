@@ -1,0 +1,6 @@
+D:\Brijesh\WebServices\Parth_Krishna\BusReservationService\BusReservationService\bin\BusReservationService.dll.config
+D:\Brijesh\WebServices\Parth_Krishna\BusReservationService\BusReservationService\bin\BusReservationService.dll
+D:\Brijesh\WebServices\Parth_Krishna\BusReservationService\BusReservationService\bin\BusReservationService.pdb
+D:\Brijesh\WebServices\Parth_Krishna\BusReservationService\BusReservationService\obj\Debug\BusReservationService.csprojResolveAssemblyReference.cache
+D:\Brijesh\WebServices\Parth_Krishna\BusReservationService\BusReservationService\obj\Debug\BusReservationService.dll
+D:\Brijesh\WebServices\Parth_Krishna\BusReservationService\BusReservationService\obj\Debug\BusReservationService.pdb
